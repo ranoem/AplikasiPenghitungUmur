@@ -18,7 +18,7 @@ Aplikasi ini dapat digunakan untuk menghitung umur yang dapat tampil dalam bentu
 - NPM: 2210010371
 - Kelas: 5C Reguler Banjarmasin
 
-## Screenshots
+## Demo
 
 ![App Screenshot](https://github.com/ranoem/AplikasiPenghitungUmur/blob/main/img/app.gif)
 
